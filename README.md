@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 ## 运行
 
-下载[发行版本](../../release)后双击运行。
+下载[发行版](../../releases)最新版本后双击运行。
 
 自行打包文件为可执行文件请参考[应用打包](应用打包.md)
 
